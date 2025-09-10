@@ -22,7 +22,7 @@
     "@vee-validate/zod": "workspace:*",
     "@vue/repl": "^3.0.0",
     "@vueuse/core": "^10.7.0",
-    "astro": "^3.6.4",
+    "astro": "^4.16.19",
     "autoprefixer": "^10.4.16",
     "fs-extra": "^11.2.0",
     "jsdom": "^23.0.1",
